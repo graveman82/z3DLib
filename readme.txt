@@ -1,0 +1,1 @@
+Free containers, math and other utils C++ library intended for game development. 
