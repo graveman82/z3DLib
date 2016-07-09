@@ -4,12 +4,12 @@
 *.exe
 *.lib
 *~
-MSVC9Projects/**/*.ncb
-MSVC9Projects/**/*.user
-MSVC2010Projects/**/*.ncb
-MSVC2010Projects/**/*.user
-MSVC2015Projects/**/*.ncb
-MSVC2015Projects/**/*.user
+projmsvc9/**/*.ncb
+projmsvc9/**/*.user
+projmsvc2010/**/*.ncb
+projmsvc2010/**/*.user
+projmsvc2015/**/*.ncb
+projmsvc2015/**/*.user
 Debug/*.manifest
 Debug/*.obj
 Debug/*.dep
@@ -26,3 +26,5 @@ Release/*.pdb
 Release/*.res
 Release/*.htm
 Release/*.ilk
+doc/doxy/html/
+doc/doxy/latex/

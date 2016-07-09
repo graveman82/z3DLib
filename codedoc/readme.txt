@@ -1,0 +1,1 @@
+This directory contains documentation in .h files. Not for include in real projects.

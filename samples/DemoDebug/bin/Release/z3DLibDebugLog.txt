@@ -1,0 +1,9 @@
+Error (f == 0) found in file "D:\Development\DevProjects\z3DLib\samples\DemoDebug\main.cpp"(53)
+    Details: 
+File "2016-Jul-09[22-18-01]" is not exist
+Error (Z3D_DEBUG_NOEXP) found in file "D:\Development\DevProjects\z3DLib\samples\DemoDebug\main.cpp"(62)
+    Details: 
+
+Warning (filename = 0) reported on file "D:\Development\DevProjects\z3DLib\samples\DemoDebug\main.cpp"(73)
+    Details: 
+File name is not given

@@ -1,0 +1,3 @@
+Assert (f != 0) failed in file "D:\Development\DevProjects\z3DLib\samples\DemoDebug\main.cpp"(49)
+    Details: 
+

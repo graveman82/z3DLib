@@ -1,1 +1,0 @@
-For Git to store empty directories. Remove it when some files would appear in directory.

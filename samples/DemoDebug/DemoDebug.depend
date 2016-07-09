@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1468088129 source:d:\development\devprojects\z3dlib\samples\demodebug\main.cpp
+	<stdio.h>
+	<conio.h>
+	<ctime>
+	"dbg/z3ddbg.h"
+
+1468088267 d:\development\devprojects\z3dlib\inc\dbg\z3ddbg.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+
